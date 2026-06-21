@@ -52,6 +52,9 @@
         <mxCell id="h3QIBda4VsOpSoF6P1GM-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Feature X&lt;sub&gt;c&lt;/sub&gt;" vertex="1">
           <mxGeometry height="31" width="110" x="470" y="585" as="geometry" />
         </mxCell>
+        <mxCell id="h3QIBda4VsOpSoF6P1GM-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Feature X&lt;sub&gt;c&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="31" width="110" x="630" y="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
